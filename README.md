@@ -1,1 +1,1 @@
-# tornado_template_key
+# salt_xenserver
